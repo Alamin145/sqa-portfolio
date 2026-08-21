@@ -2,7 +2,7 @@
 
 I have hands-on experience in **manual software testing of 40+ business applications and software systems** across multiple industries and business domains in Bangladesh.
 
-My testing experience includes **Web Applications, ERP, HRM, Payroll, POS, Accounting, E-commerce, Healthcare, Hospitality, Manufacturing, Inventory, Billing, Education, CRM, and Management Systems**.
+My testing experience includes **Web Applications, ERP, HRM, Payroll, Production, POS, Accounting, E-commerce, Healthcare, Hospitality, Manufacturing, Inventory, Billing, Education, CRM, and Management Systems**.
 
 ##  Software Domains Tested
 
