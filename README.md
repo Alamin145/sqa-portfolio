@@ -1,29 +1,29 @@
-# 🧪 Software Testing Experience
+#  Software Testing Experience
 
 I have hands-on experience in **manual software testing of 40+ business applications and software systems** across multiple industries and business domains in Bangladesh.
 
 My testing experience includes **Web Applications, ERP, HRM, Payroll, POS, Accounting, E-commerce, Healthcare, Hospitality, Manufacturing, Inventory, Billing, Education, CRM, and Management Systems**.
 
-## 📊 Software Domains Tested
+##  Software Domains Tested
 
 | Domain                           | Software / System Types                                                                                        |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 🏢 **ERP & Business Management** | ERP, Smart ERP, School ERP, Garments ERP, Production ERP, DMS, CRM, Sales Force ERP                            |
-| 👥 **HRM & Attendance**          | HRM, Attendance Management, Government PMIS & Attendance, Dormitory Management                                 |
-| 🛒 **POS & Retail**              | Smart POS, Smart Dokani, Pharmacy POS, Electronics Shop POS, Tiles Shop POS, Footwear POS, Multi-Unit Shop POS |
-| 💰 **Accounting & Billing**      | Smart Account, Core Accounting, Restaurant Billing, ISP Billing, Cable Billing                                 |
-| 🏨 **Hospitality & Restaurant**  | Hotel ERP, Restaurant ERP, Restaurant Billing                                                                  |
-| 🛍️ **E-commerce**               | E-commerce, Multi-Vendor E-commerce                                                                            |
-| 🏭 **Manufacturing & Inventory** | Production Management, Inventory Management, Garments Accessories ERP                                          |
-| 🏥 **Healthcare**                | Pharmacy Management, Diagnostic Management                                                                     |
-| 📦 **Service & Distribution**    | Courier Management, DMS, Service Shop, Parlor/Spa/Salon POS                                                    |
-| 🎓 **Education**                 | School ERP, E-learning Systems                                                                                 |
-| 📅 **Booking & Management**      | Appointment Management, Booking Management, Visitor Gate Pass, Event Management                                |
-| 🌐 **Web & Other Systems**       | Websites, L/C Management, Software Pricing Systems, USG Demo Systems                                           |
+|  **ERP & Business Management** | ERP, Smart ERP, School ERP, Garments ERP, Production ERP, DMS, CRM, Sales Force ERP                            |
+|  **HRM & Attendance**          | HRM, Attendance Management, Government PMIS & Attendance, Dormitory Management                                 |
+|  **POS & Retail**              | Smart POS, Smart Dokani, Pharmacy POS, Electronics Shop POS, Tiles Shop POS, Footwear POS, Multi-Unit Shop POS |
+|  **Accounting & Billing**      | Smart Account, Core Accounting, Restaurant Billing, ISP Billing, Cable Billing                                 |
+|  **Hospitality & Restaurant**  | Hotel ERP, Restaurant ERP, Restaurant Billing                                                                  |
+|  **E-commerce**               | E-commerce, Multi-Vendor E-commerce                                                                            |
+|  **Manufacturing & Inventory** | Production Management, Inventory Management, Garments Accessories ERP                                          |
+|  **Healthcare**                | Pharmacy Management, Diagnostic Management                                                                     |
+|  **Service & Distribution**    | Courier Management, DMS, Service Shop, Parlor/Spa/Salon POS                                                    |
+|  **Education**                 | School ERP, E-learning Systems                                                                                 |
+|  **Booking & Management**      | Appointment Management, Booking Management, Visitor Gate Pass, Event Management                                |
+|  **Web & Other Systems**       | Websites, L/C Management, Software Pricing Systems, USG Demo Systems                                           |
 
 ---
 
-## 🔍 Software Testing Activities
+##  Software Testing Activities
 
 My hands-on testing experience covers multiple stages of the Software Testing Life Cycle (STLC), including:
 
@@ -55,11 +55,11 @@ My hands-on testing experience covers multiple stages of the Software Testing Li
 
 ---
 
-## 🧩 Business Modules Tested
+##  Business Modules Tested
 
 I have tested a wide range of business-critical modules, including:
 
-### 👥 HR & Payroll
+###  HR & Payroll
 
 * Employee Management
 * Attendance Management
@@ -71,7 +71,7 @@ I have tested a wide range of business-critical modules, including:
 * Loan & Advance Management
 * Performance/KPI Management
 
-### 💼 ERP & Business Operations
+###  ERP & Business Operations
 
 * Sales Management
 * Purchase Management
@@ -83,7 +83,7 @@ I have tested a wide range of business-critical modules, including:
 * Asset Management
 * General Store Management
 
-### 💰 Finance & Accounting
+###  Finance & Accounting
 
 * Accounting
 * Billing
@@ -93,7 +93,7 @@ I have tested a wide range of business-critical modules, including:
 * Financial Transactions
 * Payment Management
 
-### 🛒 Retail & POS
+###  Retail & POS
 
 * POS
 * Product Management
@@ -104,7 +104,7 @@ I have tested a wide range of business-critical modules, including:
 * Pharmacy POS
 * Restaurant Billing
 
-### 🏨 Hospitality & Healthcare
+###  Hospitality & Healthcare
 
 * Hotel Booking
 * Room Management
@@ -113,7 +113,7 @@ I have tested a wide range of business-critical modules, including:
 * Diagnostic Management
 * Appointment Management
 
-### 🌐 Other Business Systems
+###  Other Business Systems
 
 * CRM
 * E-commerce
@@ -126,7 +126,7 @@ I have tested a wide range of business-critical modules, including:
 
 ---
 
-## 🛠️ Testing Tools & Technical Skills
+##  Testing Tools & Technical Skills
 
 * **Jira** – Bug Tracking & Issue Management
 * **SQL Server / SSMS** – Database Testing & Data Validation
@@ -137,7 +137,7 @@ I have tested a wide range of business-critical modules, including:
 
 ---
 
-## 🎯 Testing Approach
+##  Testing Approach
 
 For every project, I follow a structured and risk-based testing approach:
 
@@ -157,7 +157,7 @@ For every project, I follow a structured and risk-based testing approach:
 
 ---
 
-## 🐞 Defect Management
+##  Defect Management
 
 My defect management experience includes:
 
@@ -175,7 +175,7 @@ My defect management experience includes:
 
 ---
 
-## 💾 Database & Data Validation
+##  Database & Data Validation
 
 I have practical experience validating application data against backend databases to ensure:
 
@@ -190,7 +190,7 @@ I have practical experience validating application data against backend database
 
 ---
 
-## 🔗 API & Integration Testing
+##  API & Integration Testing
 
 My testing experience also includes validating integrations between different systems and services, including:
 
@@ -206,7 +206,7 @@ My testing experience also includes validating integrations between different sy
 
 ---
 
-## 🏢 Enterprise & ERP Testing Experience
+##  Enterprise & ERP Testing Experience
 
 A significant portion of my testing experience comes from **ERP and enterprise business applications**, where testing requires understanding both technical functionality and real-world business processes.
 
@@ -218,7 +218,7 @@ This experience allows me to test applications not only from a UI perspective, b
 
 ---
 
-## 🤝 Client & UAT Support
+##  Client & UAT Support
 
 In addition to software testing, I have experience working directly with clients and business users to:
 
@@ -234,7 +234,7 @@ In addition to software testing, I have experience working directly with clients
 
 ---
 
-## 📈 Key Testing Strengths
+##  Key Testing Strengths
 
 * **40+ Business Applications Tested**
 * Strong **Manual Testing** experience
@@ -252,7 +252,7 @@ In addition to software testing, I have experience working directly with clients
 
 ---
 
-## 🎯 Professional Testing Focus
+##  Professional Testing Focus
 
 My primary focus is to ensure that software is not only **functionally correct**, but also **reliable, business-ready, data-consistent, and usable in real-world operational environments**.
 
