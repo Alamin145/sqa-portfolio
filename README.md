@@ -19,7 +19,7 @@ My testing experience includes **Web Applications, ERP, HRM, Payroll, Production
 |  **Service & Distribution**    | Courier Management, DMS, Service Shop, Parlor/Spa/Salon POS                                                    |
 |  **Education**                 | School ERP, E-learning Systems                                                                                 |
 |  **Booking & Management**      | Appointment Management, Booking Management, Visitor Gate Pass, Event Management                                |
-|  **Web & Other Systems**       | Websites, L/C Management, Software Pricing Systems, USG Demo Systems                                           |
+|  **Web & Other Systems**       | Websites, L/C Management, Software Pricing Systems, USG Systems                                           |
 
 ---
 
